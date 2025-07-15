@@ -68,7 +68,7 @@
 
             <lg n="5" xml:id="lg005">
                <l n="13">“Let us descend now into the blind world,”</l>
-               <l n="14">Began <persName cert="high" type="real" xml:id="VIRG01">the Poet</persName>, pallid utterly;</l>
+               <l n="14">Began <persName cert="high" type="real" xml:id="VIRG01"><persName key="Virgil." ref="http://viaf.org/viaf/8194433" cert="high" type="real">the Poet</persName></persName>, pallid utterly;</l>
                <l n="15">“I will be first, and thou shalt second be.”</l>
             </lg>
 
