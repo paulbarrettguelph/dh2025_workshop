@@ -219,7 +219,7 @@
             <lg n="30" xml:id="lg030">
                <l n="88">That one is <persName cert="high" role="poet" subtype="Greek" xml:id="HOMER01">Homer</persName>, Poet sovereign;</l>
                <l n="89">He who comes next is <persName type="identifiable" xml:id="HORACE01"><persName cert="high" role="poet" subtype="Roman" type="real">Horace</persName></persName>, the satirist;</l>
-               <l n="90">The third is <persName role="poet" subtype="Roman">Ovid</persName>, and the last is Lucan.</l>
+               <l n="90">The third is <persName role="poet" subtype="Roman">Ovid</persName>, and the last is <persName cert="high" role="Poet" subtype="Roman" type="real">Lucan</persName>.</l>
             </lg>
 
             <lg n="31" xml:id="lg031">
